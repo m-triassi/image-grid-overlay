@@ -1,7 +1,6 @@
 # Image Grid Overlay
 
-A simple, client-side web application built with React and Vite that allows users to upload an image, overlay a customizable grid, and download the result. This tool is perfect for tabletop RPG players, artists, or anyone needing to add a precise grid to an image.
-
+A simple, client-side web application built with React and Vite that allows users to upload an image, overlay a customizable grid, and download the result. This tool is mainly aimed at tabletop RPG players looking to add a grid to a battle map.
 ## Features
 
 -   **Image Upload:** Upload any image file (PNG, JPG, GIF) from your local machine.
